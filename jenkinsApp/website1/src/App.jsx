@@ -26,7 +26,7 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Changed to see Jenkins reaction
+        Changed to see Jenkins reaction - Now pipeline
       </p>
     </>
   )
